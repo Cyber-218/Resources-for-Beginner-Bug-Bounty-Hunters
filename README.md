@@ -36,6 +36,5 @@ I have also put together my own resource:
 - [Media Resources](/assets/media.md)
 - [Mindset & Mental Health](/assets/health.md)
 
----
-If you have more questions or suggestions, check out [NahamSec's Discord](https://discord.gg/9jZxjQ5)!<br>
+
 
